@@ -48,10 +48,13 @@ To install all these libraries do the folling steps:
     ```
 
 ***
-### Visuals
+### Visuals and analysis
+fan_predict_dataframe             |  fan
+:-------------------------:|:-------------------------:
+![](img/fan_cluster_abnormal_df.png?raw=true  "Title")  |  ![](img/fan_normal_abnormal_clusters_2D.png?raw=true  "Title") 
 
 ### Contributors
-This was an individual project but i wish to thank all my colleagues and coacher for the support:
+This was an individual project but i wish to thank all my colleagues and coaches for the support:
                                                                                    
 - [Ujjwal Kandel](https://github.com/UjjwalKandel2000) 
 
