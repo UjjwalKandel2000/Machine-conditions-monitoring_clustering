@@ -1,6 +1,5 @@
 # Machine-conditions-monitoring_clustering
 
-To give a brief itroduction of this project you can refer to the description below.
 - `Deployment strategy` :
   - GitHub page
   - Jupyter Notebook
@@ -48,10 +47,6 @@ To install all these libraries do the folling steps:
     ```
 
 ***
-### Visuals and analysis
-fan_predict_dataframe             |  fan
-:-------------------------:|:-------------------------:
-![](img/fan_cluster_abnormal_df.png?raw=true  "Title")  |  ![](img/fan_normal_abnormal_clusters_2D.png?raw=true  "Title") 
 
 ### Contributors
 This was an individual project but i wish to thank all my colleagues and coaches for the support:
