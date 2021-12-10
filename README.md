@@ -58,7 +58,6 @@ You can clone this repository and create a new branch and push your changes.
 
 ***
 ### Timeline
-Nov - Dec 2021
 
 Time limit: 3 days --> 8/12/2021 - 10/12/2021 
 
